@@ -41,7 +41,7 @@ export default function ContactSection() {
   method="POST"
           className="bg-black/60 rounded-2xl p-6 shadow space-y-5 glassmorph border border-white/10 max-w-md mx-auto">
             <input type="hidden" name="_captcha" value="false" />
-            <input type="hidden" name="_next" value="http://localhost:8080/thanks" />
+            <input type="hidden" name="_next" value="http://bitnaro.vercel.app/thanks" />
 
 
             <div>
